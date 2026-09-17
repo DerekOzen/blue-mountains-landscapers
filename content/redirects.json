@@ -1,5 +1,101 @@
 [
   {
+    "from": "/services/turf-artificial-grass",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-17T22:19:32.335Z"
+  },
+  {
+    "from": "/services/tree-services",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-17T22:19:32.335Z"
+  },
+  {
+    "from": "/thank-you",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-17T22:19:32.335Z"
+  },
+  {
+    "from": "/services/soft-landscaping",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-17T22:19:32.335Z"
+  },
+  {
+    "from": "/services",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-17T22:19:32.335Z"
+  },
+  {
+    "from": "/service-areas",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-17T22:19:32.335Z"
+  },
+  {
+    "from": "/services/retaining-walls",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-17T22:19:32.335Z"
+  },
+  {
+    "from": "/services/paving-stonework",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-17T22:19:32.335Z"
+  },
+  {
+    "from": "/mulching-weeding",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-17T22:19:32.335Z"
+  },
+  {
+    "from": "/lawn-mowing",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-17T22:19:32.335Z"
+  },
+  {
+    "from": "/landscape-design",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-17T22:19:32.335Z"
+  },
+  {
+    "from": "/hard-landscaping",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-17T22:19:32.335Z"
+  },
+  {
+    "from": "/gutter-cleaning",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-17T22:19:32.335Z"
+  },
+  {
+    "from": "/services/garden-maintenance",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-17T22:19:32.335Z"
+  },
+  {
+    "from": "/gallery",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-17T22:19:32.335Z"
+  },
+  {
+    "from": "/contact-us",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-17T22:19:32.335Z"
+  },
+  {
     "from": "/home",
     "to": "/",
     "code": 301,
