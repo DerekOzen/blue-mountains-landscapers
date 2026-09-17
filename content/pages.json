@@ -372,5 +372,21 @@
     "updatedAt": "2026-09-17T22:39:33.032Z",
     "updatedBy": "derek",
     "isHome": false
+  },
+  {
+    "id": "pg-24",
+    "path": "/about-us",
+    "type": "page",
+    "title": "About Us",
+    "seoTitle": "About Blue Mountains Landscapers | Local Landscaping Team",
+    "seoDescription": "About Blue Mountains Landscapers — a local design, build and garden-care team building for Mountains blocks. Licensed, insured, fixed quotes.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-09-17T22:40:18.643Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-09-17T22:40:18.643Z",
+    "createdBy": "derek"
   }
 ]
