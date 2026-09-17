@@ -210,7 +210,7 @@
   },
   {
     "id": "pg-14",
-    "path": "/paving-stonework",
+    "path": "/services/paving-stonework",
     "type": "service",
     "title": "Paving, Pavers & Stone | Blue Mountains Landscapers",
     "seoTitle": "Paving, Pavers & Stone | Blue Mountains Landscapers",
@@ -218,10 +218,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-17T03:36:22.080Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-17T03:38:45.143Z",
+    "updatedAt": "2026-09-17T21:46:48.021Z",
     "updatedBy": "derek"
   },
   {
