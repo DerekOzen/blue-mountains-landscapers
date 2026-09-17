@@ -277,7 +277,7 @@
   },
   {
     "id": "pg-18",
-    "path": "/services",
+    "path": "/services/services",
     "type": "service",
     "title": "Landscaping Services in the Blue Mountains | Blue Mountains Landscapers",
     "seoTitle": "Landscaping Services in the Blue Mountains | Blue Mountains Landscapers",
@@ -285,11 +285,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-17T22:37:00.195Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-17T22:37:00.195Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-17T23:20:25.064Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-19",
