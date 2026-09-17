@@ -24,12 +24,6 @@
     "at": "2026-09-17T22:19:32.335Z"
   },
   {
-    "from": "/service-areas",
-    "to": "/",
-    "code": 301,
-    "at": "2026-09-17T22:19:32.335Z"
-  },
-  {
     "from": "/services/retaining-walls",
     "to": "/",
     "code": 301,
