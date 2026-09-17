@@ -18,7 +18,7 @@
   },
   {
     "id": "pg-2",
-    "path": "/artificial-grass",
+    "path": "/services/artificial-grass",
     "type": "service",
     "title": "Artificial Grass | Blue Mountains Landscapers",
     "seoTitle": "Artificial Grass | Blue Mountains Landscapers",
@@ -26,10 +26,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-17T22:36:29.474Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-17T22:36:29.474Z",
+    "updatedAt": "2026-09-17T22:41:17.121Z",
     "updatedBy": "derek"
   },
   {
