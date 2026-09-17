@@ -97,7 +97,7 @@
   },
   {
     "id": "pg-7",
-    "path": "/index",
+    "path": "/",
     "type": "service",
     "title": "Landscaping Blue Mountains | Garden Design, Build & Care | Blue Mountains Landscapers",
     "seoTitle": "Landscaping Blue Mountains | Garden Design, Build & Care | Blue Mountains Landscapers",
@@ -105,11 +105,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-17T03:36:01.874Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-17T03:38:45.143Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-17T03:39:54.667Z",
+    "updatedBy": "derek",
+    "isHome": true
   },
   {
     "id": "pg-8",
