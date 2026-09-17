@@ -82,7 +82,7 @@
   },
   {
     "id": "pg-6",
-    "path": "/landscape-design",
+    "path": "/services/landscape-design",
     "type": "service",
     "title": "Landscape Design & Construction | Blue Mountains Landscapers",
     "seoTitle": "Landscape Design & Construction | Blue Mountains Landscapers",
@@ -90,11 +90,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-17T22:36:29.474Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-17T22:36:29.474Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-17T23:19:48.073Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-7",
