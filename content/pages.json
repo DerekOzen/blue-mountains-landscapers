@@ -323,7 +323,7 @@
   },
   {
     "id": "pg-21",
-    "path": "/turf-artificial-grass",
+    "path": "/services/turf-artificial-grass",
     "type": "service",
     "title": "Turf & Artificial Grass | Blue Mountains Landscapers",
     "seoTitle": "Turf & Artificial Grass | Blue Mountains Landscapers",
@@ -331,10 +331,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-17T03:36:22.080Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-17T03:38:45.143Z",
+    "updatedAt": "2026-09-17T21:46:11.399Z",
     "updatedBy": "derek"
   }
 ]
