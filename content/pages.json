@@ -194,7 +194,7 @@
   },
   {
     "id": "pg-13",
-    "path": "/turf-laying",
+    "path": "/services/turf-laying",
     "type": "service",
     "title": "Turf Laying | Blue Mountains Landscapers",
     "seoTitle": "Turf Laying | Blue Mountains Landscapers",
@@ -202,11 +202,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-17T22:36:29.474Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-17T22:36:29.474Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-17T23:20:17.452Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-14",
