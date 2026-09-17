@@ -130,7 +130,7 @@
   {
     "id": "pg-9",
     "path": "/landscaping-blaxland",
-    "type": "service",
+    "type": "location",
     "title": "Landscaping Blaxland | Garden, Tree & Design Services | Blue Mountains Landscapers",
     "seoTitle": "Landscaping Blaxland | Garden, Tree & Design Services | Blue Mountains Landscapers",
     "seoDescription": "Landscaping in Blaxland — fire-smart garden design, low-maintenance builds, turf, paving and yard clean-ups for lower-Mountains families. Free quote, 20% off.",
@@ -140,13 +140,13 @@
     "status": "draft",
     "createdAt": "2026-09-17T03:36:22.080Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-17T03:38:45.143Z",
+    "updatedAt": "2026-09-17T03:39:14.181Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-10",
     "path": "/landscaping-katoomba",
-    "type": "service",
+    "type": "location",
     "title": "Landscaping Katoomba | Garden, Tree & Design Services | Blue Mountains Landscapers",
     "seoTitle": "Landscaping Katoomba | Garden, Tree & Design Services | Blue Mountains Landscapers",
     "seoDescription": "Landscaping in Katoomba — cool-climate design & build, sandstone retaining, tree work and maintenance for steep upper-Mountains blocks. Free quote, 20% off.",
@@ -156,13 +156,13 @@
     "status": "draft",
     "createdAt": "2026-09-17T03:36:22.080Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-17T03:38:45.143Z",
+    "updatedAt": "2026-09-17T03:39:14.181Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-11",
     "path": "/landscaping-springwood",
-    "type": "service",
+    "type": "location",
     "title": "Landscaping Springwood | Garden, Tree & Design Services | Blue Mountains Landscapers",
     "seoTitle": "Landscaping Springwood | Garden, Tree & Design Services | Blue Mountains Landscapers",
     "seoDescription": "Landscaping in Springwood — garden design & build, bush-block maintenance, tree work and gutter clearing for mid-Mountains homes. Free quote, 20% off.",
@@ -172,7 +172,7 @@
     "status": "draft",
     "createdAt": "2026-09-17T03:36:22.080Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-17T03:38:45.143Z",
+    "updatedAt": "2026-09-17T03:39:14.181Z",
     "updatedBy": "derek"
   },
   {
