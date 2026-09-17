@@ -50,7 +50,7 @@
   {
     "id": "pg-4",
     "path": "/garden-maintenance",
-    "type": "page",
+    "type": "service",
     "title": "Garden Maintenance | Blue Mountains Landscapers",
     "seoTitle": "Garden Maintenance | Blue Mountains Landscapers",
     "seoDescription": "Blue Mountains garden maintenance — pruning, hedge trimming and seasonal tidy-ups to keep your garden sharp. Free quote.",
@@ -60,13 +60,13 @@
     "status": "draft",
     "createdAt": "2026-09-17T03:36:01.874Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-17T03:36:01.874Z",
+    "updatedAt": "2026-09-17T03:38:45.143Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-5",
     "path": "/gutter-cleaning",
-    "type": "page",
+    "type": "service",
     "title": "Gutter Cleaning | Blue Mountains Landscapers",
     "seoTitle": "Gutter Cleaning | Blue Mountains Landscapers",
     "seoDescription": "Gutter cleaning Blue Mountains — leaf and debris clearing to protect your home before storm and fire season. Free quote.",
@@ -76,13 +76,13 @@
     "status": "draft",
     "createdAt": "2026-09-17T03:36:01.874Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-17T03:36:01.874Z",
+    "updatedAt": "2026-09-17T03:38:45.143Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-6",
     "path": "/hard-landscaping",
-    "type": "page",
+    "type": "service",
     "title": "Hard Landscaping | Blue Mountains Landscapers",
     "seoTitle": "Hard Landscaping | Blue Mountains Landscapers",
     "seoDescription": "Blue Mountains hard landscaping — paths, patios, steps, stone and structural work built for slope and weather. Free quote.",
@@ -92,13 +92,13 @@
     "status": "draft",
     "createdAt": "2026-09-17T03:36:01.874Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-17T03:36:01.874Z",
+    "updatedAt": "2026-09-17T03:38:45.143Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-7",
     "path": "/index",
-    "type": "page",
+    "type": "service",
     "title": "Landscaping Blue Mountains | Garden Design, Build & Care | Blue Mountains Landscapers",
     "seoTitle": "Landscaping Blue Mountains | Garden Design, Build & Care | Blue Mountains Landscapers",
     "seoDescription": "Premium Blue Mountains landscaping — design & construction, retaining walls, paving, turf, tree & garden care across Katoomba, Springwood, Blaxland and the Mountains. Free quote.",
@@ -108,13 +108,13 @@
     "status": "draft",
     "createdAt": "2026-09-17T03:36:01.874Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-17T03:36:01.874Z",
+    "updatedAt": "2026-09-17T03:38:45.143Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-8",
     "path": "/landscape-design",
-    "type": "page",
+    "type": "service",
     "title": "Landscape Design & Construction | Blue Mountains Landscapers",
     "seoTitle": "Landscape Design & Construction | Blue Mountains Landscapers",
     "seoDescription": "Blue Mountains landscape design and construction — concept plans to finished garden, built for slope, sandstone and cool-climate blocks. Free quote.",
@@ -124,13 +124,13 @@
     "status": "draft",
     "createdAt": "2026-09-17T03:36:22.080Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-17T03:36:22.080Z",
+    "updatedAt": "2026-09-17T03:38:45.143Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-9",
     "path": "/landscaping-blaxland",
-    "type": "page",
+    "type": "service",
     "title": "Landscaping Blaxland | Garden, Tree & Design Services | Blue Mountains Landscapers",
     "seoTitle": "Landscaping Blaxland | Garden, Tree & Design Services | Blue Mountains Landscapers",
     "seoDescription": "Landscaping in Blaxland — fire-smart garden design, low-maintenance builds, turf, paving and yard clean-ups for lower-Mountains families. Free quote, 20% off.",
@@ -140,13 +140,13 @@
     "status": "draft",
     "createdAt": "2026-09-17T03:36:22.080Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-17T03:36:22.080Z",
+    "updatedAt": "2026-09-17T03:38:45.143Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-10",
     "path": "/landscaping-katoomba",
-    "type": "page",
+    "type": "service",
     "title": "Landscaping Katoomba | Garden, Tree & Design Services | Blue Mountains Landscapers",
     "seoTitle": "Landscaping Katoomba | Garden, Tree & Design Services | Blue Mountains Landscapers",
     "seoDescription": "Landscaping in Katoomba — cool-climate design & build, sandstone retaining, tree work and maintenance for steep upper-Mountains blocks. Free quote, 20% off.",
@@ -156,13 +156,13 @@
     "status": "draft",
     "createdAt": "2026-09-17T03:36:22.080Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-17T03:36:22.080Z",
+    "updatedAt": "2026-09-17T03:38:45.143Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-11",
     "path": "/landscaping-springwood",
-    "type": "page",
+    "type": "service",
     "title": "Landscaping Springwood | Garden, Tree & Design Services | Blue Mountains Landscapers",
     "seoTitle": "Landscaping Springwood | Garden, Tree & Design Services | Blue Mountains Landscapers",
     "seoDescription": "Landscaping in Springwood — garden design & build, bush-block maintenance, tree work and gutter clearing for mid-Mountains homes. Free quote, 20% off.",
@@ -172,13 +172,13 @@
     "status": "draft",
     "createdAt": "2026-09-17T03:36:22.080Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-17T03:36:22.080Z",
+    "updatedAt": "2026-09-17T03:38:45.143Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-12",
     "path": "/lawn-mowing",
-    "type": "page",
+    "type": "service",
     "title": "Lawn Mowing & Care | Blue Mountains Landscapers",
     "seoTitle": "Lawn Mowing & Care | Blue Mountains Landscapers",
     "seoDescription": "Lawn mowing Blue Mountains — one-off or ongoing mowing, edging and lawn care across the Mountains. Free quote.",
@@ -188,13 +188,13 @@
     "status": "draft",
     "createdAt": "2026-09-17T03:36:22.080Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-17T03:36:22.080Z",
+    "updatedAt": "2026-09-17T03:38:45.143Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-13",
     "path": "/mulching-weeding",
-    "type": "page",
+    "type": "service",
     "title": "Mulching & Weeding | Blue Mountains Landscapers",
     "seoTitle": "Mulching & Weeding | Blue Mountains Landscapers",
     "seoDescription": "Mulching and weeding in the Blue Mountains — fresh mulch, weed removal and weed control for healthy, tidy beds. Free quote.",
@@ -204,13 +204,13 @@
     "status": "draft",
     "createdAt": "2026-09-17T03:36:22.080Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-17T03:36:22.080Z",
+    "updatedAt": "2026-09-17T03:38:45.143Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-14",
     "path": "/paving-stonework",
-    "type": "page",
+    "type": "service",
     "title": "Paving, Pavers & Stone | Blue Mountains Landscapers",
     "seoTitle": "Paving, Pavers & Stone | Blue Mountains Landscapers",
     "seoDescription": "Blue Mountains paving and stonework — driveways, courtyards, paths and pebble/stone features laid to last. Free quote.",
@@ -220,13 +220,13 @@
     "status": "draft",
     "createdAt": "2026-09-17T03:36:22.080Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-17T03:36:22.080Z",
+    "updatedAt": "2026-09-17T03:38:45.143Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-15",
     "path": "/retaining-walls",
-    "type": "page",
+    "type": "service",
     "title": "Retaining Walls | Blue Mountains Landscapers",
     "seoTitle": "Retaining Walls | Blue Mountains Landscapers",
     "seoDescription": "Retaining walls Blue Mountains — timber, block and stone walls engineered for sloping and difficult sites. Free, fixed quote.",
@@ -236,13 +236,13 @@
     "status": "draft",
     "createdAt": "2026-09-17T03:36:22.080Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-17T03:36:22.080Z",
+    "updatedAt": "2026-09-17T03:38:45.143Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-16",
     "path": "/service-areas",
-    "type": "page",
+    "type": "service",
     "title": "Blue Mountains Service Areas | Katoomba, Springwood, Blaxland | Blue Mountains Landscapers",
     "seoTitle": "Blue Mountains Service Areas | Katoomba, Springwood, Blaxland | Blue Mountains Landscapers",
     "seoDescription": "The Blue Mountains suburbs we service — Katoomba, Springwood, Blaxland and every town across the LGA. Local landscaping, free quotes.",
@@ -252,13 +252,13 @@
     "status": "draft",
     "createdAt": "2026-09-17T03:36:22.080Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-17T03:36:22.080Z",
+    "updatedAt": "2026-09-17T03:38:45.143Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-17",
     "path": "/services",
-    "type": "page",
+    "type": "service",
     "title": "Landscaping Services in the Blue Mountains | Blue Mountains Landscapers",
     "seoTitle": "Landscaping Services in the Blue Mountains | Blue Mountains Landscapers",
     "seoDescription": "All Blue Mountains landscaping services — design & build, retaining walls, paving, turf, tree services, garden maintenance, mulching, lawn mowing & gutter cleaning. Free quote.",
@@ -268,13 +268,13 @@
     "status": "draft",
     "createdAt": "2026-09-17T03:36:22.080Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-17T03:36:22.080Z",
+    "updatedAt": "2026-09-17T03:38:45.143Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-18",
     "path": "/soft-landscaping",
-    "type": "page",
+    "type": "service",
     "title": "Soft Landscaping | Blue Mountains Landscapers",
     "seoTitle": "Soft Landscaping | Blue Mountains Landscapers",
     "seoDescription": "Blue Mountains soft landscaping — garden beds, planting and cool-climate gardens that thrive up here. Free, fixed quotes.",
@@ -284,7 +284,7 @@
     "status": "draft",
     "createdAt": "2026-09-17T03:36:22.080Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-17T03:36:22.080Z",
+    "updatedAt": "2026-09-17T03:38:45.143Z",
     "updatedBy": "derek"
   },
   {
@@ -306,7 +306,7 @@
   {
     "id": "pg-20",
     "path": "/tree-services",
-    "type": "page",
+    "type": "service",
     "title": "Tree Services | Blue Mountains Landscapers",
     "seoTitle": "Tree Services | Blue Mountains Landscapers",
     "seoDescription": "Blue Mountains tree services — removal, lopping, pruning and trimming by careful, insured operators. Free, fixed quote.",
@@ -316,13 +316,13 @@
     "status": "draft",
     "createdAt": "2026-09-17T03:36:22.080Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-17T03:36:22.080Z",
+    "updatedAt": "2026-09-17T03:38:45.143Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-21",
     "path": "/turf-artificial-grass",
-    "type": "page",
+    "type": "service",
     "title": "Turf & Artificial Grass | Blue Mountains Landscapers",
     "seoTitle": "Turf & Artificial Grass | Blue Mountains Landscapers",
     "seoDescription": "Turf laying and artificial grass in the Blue Mountains — a lush, green, low-maintenance lawn year round. Free quote.",
@@ -332,7 +332,7 @@
     "status": "draft",
     "createdAt": "2026-09-17T03:36:22.080Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-17T03:36:22.080Z",
+    "updatedAt": "2026-09-17T03:38:45.143Z",
     "updatedBy": "derek"
   }
 ]
