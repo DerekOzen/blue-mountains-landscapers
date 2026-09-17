@@ -34,7 +34,7 @@
   },
   {
     "id": "pg-3",
-    "path": "/garden-maintenance",
+    "path": "/services/garden-maintenance",
     "type": "service",
     "title": "Garden Maintenance | Blue Mountains Landscapers",
     "seoTitle": "Garden Maintenance | Blue Mountains Landscapers",
@@ -42,11 +42,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-17T22:36:29.474Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-17T22:36:29.474Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-17T23:18:19.760Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-4",
