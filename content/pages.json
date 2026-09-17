@@ -297,11 +297,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-17T03:36:22.080Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-17T03:36:22.080Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-17T03:39:32.860Z",
+    "updatedBy": "derek",
+    "noindex": true
   },
   {
     "id": "pg-20",
