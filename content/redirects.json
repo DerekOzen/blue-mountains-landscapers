@@ -12,12 +12,6 @@
     "at": "2026-09-17T22:19:32.335Z"
   },
   {
-    "from": "/services/soft-landscaping",
-    "to": "/",
-    "code": 301,
-    "at": "2026-09-17T22:19:32.335Z"
-  },
-  {
     "from": "/services",
     "to": "/",
     "code": 301,
