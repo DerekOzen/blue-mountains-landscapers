@@ -274,7 +274,7 @@
   },
   {
     "id": "pg-18",
-    "path": "/soft-landscaping",
+    "path": "/services/soft-landscaping",
     "type": "service",
     "title": "Soft Landscaping | Blue Mountains Landscapers",
     "seoTitle": "Soft Landscaping | Blue Mountains Landscapers",
@@ -282,10 +282,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-17T03:36:22.080Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-17T03:38:45.143Z",
+    "updatedAt": "2026-09-17T21:46:01.625Z",
     "updatedBy": "derek"
   },
   {
