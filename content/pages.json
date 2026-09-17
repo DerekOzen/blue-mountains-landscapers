@@ -9,11 +9,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "deleted",
     "createdAt": "2026-09-17T03:36:01.874Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-17T03:36:01.874Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-17T22:19:00.978Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-2",
@@ -25,11 +26,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-09-17T03:36:01.874Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-17T03:40:21.484Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-17T22:19:00.978Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-3",
@@ -41,11 +43,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-09-17T03:36:01.874Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-17T21:08:11.472Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-17T22:19:00.978Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-4",
@@ -57,11 +60,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-09-17T03:36:01.874Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-17T08:15:52.734Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-17T22:19:00.978Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-5",
@@ -73,11 +77,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-09-17T03:36:01.874Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-17T04:09:05.953Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-17T22:19:00.978Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-6",
@@ -89,11 +94,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-09-17T03:36:01.874Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-17T04:09:15.934Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-17T22:19:00.978Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-7",
@@ -122,11 +128,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-09-17T03:36:22.080Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-17T04:09:44.415Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-17T22:19:00.978Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-9",
@@ -138,11 +145,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "deleted",
     "createdAt": "2026-09-17T03:36:22.080Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-17T03:39:14.181Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-17T22:19:00.978Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-10",
@@ -154,11 +162,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "deleted",
     "createdAt": "2026-09-17T03:36:22.080Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-17T03:39:14.181Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-17T22:19:00.978Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-11",
@@ -170,11 +179,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "deleted",
     "createdAt": "2026-09-17T03:36:22.080Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-17T03:39:14.181Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-17T22:19:00.978Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-12",
@@ -186,11 +196,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-09-17T03:36:22.080Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-17T04:10:04.653Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-17T22:19:00.978Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-13",
@@ -202,11 +213,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-09-17T03:36:22.080Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-17T04:09:57.056Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-17T22:19:00.978Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-14",
@@ -218,11 +230,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-09-17T03:36:22.080Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-17T21:46:48.021Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-17T22:19:00.978Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-15",
@@ -234,11 +247,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-09-17T03:36:22.080Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-17T21:45:46.247Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-17T22:19:00.978Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-16",
@@ -250,11 +264,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-09-17T03:36:22.080Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-17T21:45:49.385Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-17T22:19:00.978Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-17",
@@ -266,11 +281,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-09-17T03:36:22.080Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-17T21:46:19.076Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-17T22:19:00.978Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-18",
@@ -282,11 +298,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-09-17T03:36:22.080Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-17T21:46:01.625Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-17T22:19:00.978Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-19",
@@ -298,12 +315,13 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-09-17T03:36:22.080Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-17T03:39:32.860Z",
+    "updatedAt": "2026-09-17T22:19:00.978Z",
     "updatedBy": "derek",
-    "noindex": true
+    "noindex": true,
+    "isHome": false
   },
   {
     "id": "pg-20",
@@ -315,11 +333,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-09-17T03:36:22.080Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-17T21:46:06.779Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-17T22:19:00.978Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-21",
@@ -331,10 +350,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-09-17T03:36:22.080Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-17T21:46:11.399Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-17T22:19:00.978Z",
+    "updatedBy": "derek",
+    "isHome": false
   }
 ]
