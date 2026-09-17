@@ -226,7 +226,7 @@
   },
   {
     "id": "pg-15",
-    "path": "/retaining-walls",
+    "path": "/services/retaining-walls",
     "type": "service",
     "title": "Retaining Walls | Blue Mountains Landscapers",
     "seoTitle": "Retaining Walls | Blue Mountains Landscapers",
@@ -234,10 +234,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-17T03:36:22.080Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-17T03:38:45.143Z",
+    "updatedAt": "2026-09-17T21:45:46.247Z",
     "updatedBy": "derek"
   },
   {
