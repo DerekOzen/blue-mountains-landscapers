@@ -178,7 +178,7 @@
   },
   {
     "id": "pg-12",
-    "path": "/tree-services",
+    "path": "/services/tree-services",
     "type": "service",
     "title": "Tree Services | Blue Mountains Landscapers",
     "seoTitle": "Tree Services | Blue Mountains Landscapers",
@@ -189,8 +189,8 @@
     "status": "published",
     "createdAt": "2026-09-17T22:36:29.474Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-18T02:41:42.009Z",
-    "updatedBy": "kritesh"
+    "updatedAt": "2026-09-18T05:04:20.030Z",
+    "updatedBy": "derek"
   },
   {
     "id": "pg-13",
