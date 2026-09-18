@@ -388,5 +388,21 @@
     "updatedBy": "derek",
     "createdAt": "2026-09-17T22:40:18.643Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-25",
+    "path": "/home-2",
+    "type": "page",
+    "title": "Home 2",
+    "seoTitle": "Landscaping Blue Mountains | Garden Design, Build & Care | Blue Mountains Landscapers",
+    "seoDescription": "Premium Blue Mountains landscaping — design & construction, retaining walls, paving, turf, tree & garden care across Katoomba, Springwood, Blaxland and the Mountains. Free quote.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "updatedAt": "2026-09-18T06:49:26.580Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-09-18T06:49:26.580Z",
+    "createdBy": "derek"
   }
 ]
