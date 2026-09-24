@@ -3,7 +3,7 @@
   "legalName": "Blue Mountains Landscapers",
   "email": "info@bluemountainslandscapers.com.au",
   "phone": "0456 603 691",
-  "url": "https://bluemountainslandscapers.com.au",
+  "url": "https://bluemountainslandscapers.com.au/",
   "streetAddress": "1 Taylor Rd",
   "suburb": "Blue Mountains",
   "state": "NSW",
@@ -13,5 +13,7 @@
   "openingHours": "Monday to Saturday 9am to 5pm",
   "priceRange": "$-$$$",
   "latitude": "-33.733236824441185",
-  "longitude": "150.48801844470535"
+  "longitude": "150.48801844470535",
+  "logo": "",
+  "image": "https://bluemountainslandscapers.com.au/uploads/our-team-by-blue-mountains-landscapers-2ac9dca9.jpg"
 }
