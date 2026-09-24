@@ -1,0 +1,99 @@
+{
+  "batches": [
+    {
+      "batchId": "csg-mueu03fq-fgzj",
+      "at": "2026-09-24T01:06:39.590Z",
+      "count": 22,
+      "changes": [
+        {
+          "path": "/",
+          "newRecordId": "SCHEMA-00ED5693"
+        },
+        {
+          "path": "/services/artificial-grass",
+          "newRecordId": "SCHEMA-219605C3"
+        },
+        {
+          "path": "/services/garden-maintenance",
+          "newRecordId": "SCHEMA-157D494B"
+        },
+        {
+          "path": "/services/gutter-cleaning",
+          "newRecordId": "SCHEMA-C5545492"
+        },
+        {
+          "path": "/services/hard-landscaping",
+          "newRecordId": "SCHEMA-D6908CDA"
+        },
+        {
+          "path": "/services/landscape-design",
+          "newRecordId": "SCHEMA-09486C4A"
+        },
+        {
+          "path": "/services/lawn-mowing",
+          "newRecordId": "SCHEMA-5C1B5783"
+        },
+        {
+          "path": "/services/mulching",
+          "newRecordId": "SCHEMA-6DB9F78A"
+        },
+        {
+          "path": "/services/paving-stonework",
+          "newRecordId": "SCHEMA-21CCD90A"
+        },
+        {
+          "path": "/services/retaining-walls",
+          "newRecordId": "SCHEMA-BD6D524D"
+        },
+        {
+          "path": "/services/soft-landscaping",
+          "newRecordId": "SCHEMA-E9C52110"
+        },
+        {
+          "path": "/services/tree-services",
+          "newRecordId": "SCHEMA-281F4D5C"
+        },
+        {
+          "path": "/services/turf-laying",
+          "newRecordId": "SCHEMA-2A48F9D5"
+        },
+        {
+          "path": "/services/weed-control",
+          "newRecordId": "SCHEMA-BD2149EF"
+        },
+        {
+          "path": "/services",
+          "newRecordId": "SCHEMA-80D17280"
+        },
+        {
+          "path": "/landscaping-blaxland",
+          "newRecordId": "SCHEMA-6C4CBC05"
+        },
+        {
+          "path": "/landscaping-katoomba",
+          "newRecordId": "SCHEMA-B310EA1B"
+        },
+        {
+          "path": "/landscaping-springwood",
+          "newRecordId": "SCHEMA-018C75FF"
+        },
+        {
+          "path": "/service-areas",
+          "newRecordId": "SCHEMA-B692200C"
+        },
+        {
+          "path": "/about-us",
+          "newRecordId": "SCHEMA-F98A3757"
+        },
+        {
+          "path": "/contact-us",
+          "newRecordId": "SCHEMA-C902B52D"
+        },
+        {
+          "path": "/gallery",
+          "newRecordId": "SCHEMA-2CAF5D1D"
+        }
+      ]
+    }
+  ]
+}
