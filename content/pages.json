@@ -348,8 +348,10 @@
     "status": "published",
     "createdAt": "2026-09-17T22:37:26.130Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-18T09:09:12.674Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-25T06:18:50.786Z",
+    "updatedBy": "derek",
+    "featuredImage": "/uploads/landscaping-katoomba-by-blue-mountains-l-d6b94525.jpg",
+    "featuredImageAlt": "Landscaping in Katoomba"
   },
   {
     "id": "pg-22",
