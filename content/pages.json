@@ -193,8 +193,10 @@
     "status": "published",
     "createdAt": "2026-09-17T22:36:29.474Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-18T06:50:15.375Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-25T06:20:20.828Z",
+    "updatedBy": "derek",
+    "featuredImage": "/uploads/soft-landscaping-blue-mountains-landscap-17c4e232.jpg",
+    "featuredImageAlt": "Soft Landscaping and Planting in the Blue Mountains"
   },
   {
     "id": "pg-12",
