@@ -211,8 +211,10 @@
     "status": "published",
     "createdAt": "2026-09-17T22:36:29.474Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-18T06:50:15.375Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-25T06:20:27.317Z",
+    "updatedBy": "derek",
+    "featuredImage": "/uploads/tree-services-blue-mountains-landscapers-209cedb4.jpg",
+    "featuredImageAlt": "Tree Services in the Blue Mountains — Removal, Lopping and Pruning"
   },
   {
     "id": "pg-13",
