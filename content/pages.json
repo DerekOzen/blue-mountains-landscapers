@@ -298,8 +298,10 @@
     "status": "published",
     "createdAt": "2026-09-17T22:37:00.195Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-18T23:50:56.953Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-25T06:19:15.676Z",
+    "updatedBy": "derek",
+    "featuredImage": "/uploads/blue-mountains-landscapers-photo-on-site-a935d4b0.jpg",
+    "featuredImageAlt": "Landscaping services across the Blue Mountains"
   },
   {
     "id": "pg-19",
