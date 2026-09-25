@@ -366,8 +366,10 @@
     "status": "published",
     "createdAt": "2026-09-17T22:37:26.130Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-18T09:12:06.801Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-25T06:18:59.763Z",
+    "updatedBy": "derek",
+    "featuredImage": "/uploads/landscaping-springwood-by-blue-mountains-0e93b050.jpg",
+    "featuredImageAlt": "Springwood Landscaping and Garden Care"
   },
   {
     "id": "pg-23",
