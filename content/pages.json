@@ -241,9 +241,11 @@
     "status": "published",
     "createdAt": "2026-09-17T22:37:00.195Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-18T09:23:06.579Z",
+    "updatedAt": "2026-09-25T06:18:38.706Z",
     "updatedBy": "derek",
-    "category": "Contact"
+    "category": "Contact",
+    "featuredImage": "/uploads/blue-mountains-landscapers-photo-on-site-138b5476.jpg",
+    "featuredImageAlt": "Get your free quote — 20% off this season"
   },
   {
     "id": "pg-16",
