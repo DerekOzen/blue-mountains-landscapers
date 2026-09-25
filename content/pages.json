@@ -10,11 +10,13 @@
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
     "status": "published",
-    "updatedAt": "2026-09-25T05:58:10.514Z",
+    "updatedAt": "2026-09-25T06:18:29.403Z",
     "updatedBy": "derek",
     "createdAt": "2026-09-17T22:31:55.267Z",
     "createdBy": "derek",
-    "isHome": true
+    "isHome": true,
+    "featuredImage": "/uploads/our-team-by-blue-mountains-landscapers-2ac9dca9.jpg",
+    "featuredImageAlt": "Landscaped Blue Mountains garden with stone paths and native planting by Blue Mountains Landscapers"
   },
   {
     "id": "pg-2",
