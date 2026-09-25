@@ -389,10 +389,12 @@
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
     "status": "published",
-    "updatedAt": "2026-09-18T09:19:23.364Z",
+    "updatedAt": "2026-09-25T06:18:07.284Z",
     "updatedBy": "derek",
     "createdAt": "2026-09-17T22:40:18.643Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "featuredImage": "/uploads/blue-mountains-landscapers-photo-on-site-a935d4b0.jpg",
+    "featuredImageAlt": "A local team that builds for the Mountains"
   },
   {
     "id": "pg-25",
