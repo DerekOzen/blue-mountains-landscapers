@@ -256,9 +256,11 @@
     "status": "published",
     "createdAt": "2026-09-17T22:37:00.195Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-18T09:15:24.834Z",
+    "updatedAt": "2026-09-25T06:13:59.304Z",
     "updatedBy": "derek",
-    "category": "Other"
+    "category": "Other",
+    "featuredImage": "/uploads/gallery-blue-mountains-landscaping-proje-c1bd542f.jpg",
+    "featuredImageAlt": "Gardens we’ve built around the Mountains"
   },
   {
     "id": "pg-17",
